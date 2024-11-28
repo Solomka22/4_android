@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">4_android</string>
+    <string name="pushBtn">Найти сорта</string>
+    <string name="textPiva">Выберите вид пива и нажмите на кнопку.</string>
+</resources>
